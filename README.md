@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Aadhil 
 
 <!--
 **Aadhil21/Aadhil21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🌱 I’m currently learning
+
+- Machine learning
+- Data science
+- Cloud computing
+
+## ⚡ Programming languages I know
+
+- Python
+- Java
+- SQL
+- Html, Css, Js
+
+## 👨🏻‍💻 Projects I made
+
+- [Inventory Management System](#)
+- [Maze Solver Algorithm](#)
+- [Sentiment Analysis Algorithm](#)
+- [Website for Song Streaming](#)
+
+
+
+
+
