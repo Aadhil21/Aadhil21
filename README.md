@@ -15,27 +15,56 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌱 I’m currently learning
-
+#### 🌱 Currently Working On:
 - Machine learning
-- Data science
-- Cloud computing
+- Deep Learning
+- Data Science
+- Programming
+- Cloud Computing
 
-## ⚡ Programming languages I know
+#### 🚀 Projects:
+- [**Analyzing Tropospheric Formaldehyde (HCHO) gas in Sri Lanka**](#)
+  - Utilized PySpark for dataset manipulation, feature extraction, and preprocessing.
+  - Integrated weather data and used Seaborn for spatiotemporal analysis.
+  - Applied SARIMA model for time-series prediction and communicated results using Power BI.
 
-- Python
-- Java
-- SQL
-- Html, Css, Js
+- [**Exercise Posture Analysis and Recommendation System**](#)
+  - Developed an analysis system and recommendations for exercise beginners.
+  - Used Flutter for frontend, Flask for backend, and WebSocket for real-time communication.
+  - Applied image processing and machine learning for posture classification and personalized exercise recommendations.
 
-## 👨🏻‍💻 Projects I made
+- [**Web-based Music Recommendation System**](#)
+  - Developed a music streaming site with HTML, CSS, JavaScript, and XML.
+  - Implemented personalized music recommendations based on user preferences.
+  - Enhanced user engagement with shopping features for merchandise.
 
-- [Inventory Management System](#)
-- [Maze Solver Algorithm](#)
-- [Sentiment Analysis Algorithm](#)
-- [Website for Song Streaming](#)
+- [**School Activity Club Management System**](#)
+  - Designed and implemented a desktop application in Java using UML and OOP principles.
+  - Utilized a 3NF normalized SQL database with JDBC for efficient data storage and retrieval.
 
+- [**Customer Service Centre Simulation**](#)
+  - Determined optimal CSR levels to minimize customer waiting times.
+  - Simulated 24-hour call center operations using R.
 
+- [**Employee Monthly Salary Prediction**](#)
+  - Developed models using Naive Bayes and Random Forest for salary prediction.
+  - Conducted data preprocessing and exploratory data analysis to optimize data quality.
 
+#### 🛠️ Technical Skills:
+- **Programming Languages:** Python, R, Java, SQL
+- **Machine Learning Frameworks:** Scikit-learn, TensorFlow, Keras
+- **Data Science Tools:** Apache Spark, NumPy, pandas, Power BI, Matplotlib, Seaborn
+- **Database Management:** MySQL, MongoDB
+- **Web Development:** Flask, HTML, CSS, JavaScript
+- **Mobile Development:** Flutter
+- **Cloud Skills:** AWS
+- **Version Control:** Git, GitHub
+- **Containerization:** Docker
+- **Workflow Orchestration:** Apache Airflow
+- **CI/CD:** GitHub Actions
 
+#### 🪴 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadhil21&show_icons=true&theme=algolia&line_height=20)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadhil21&layout=compact&theme=algolia&line_height=20)
 
