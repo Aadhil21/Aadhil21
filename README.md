@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   - Determined optimal CSR levels to minimize customer waiting times.
   - Simulated 24-hour call center operations using R.
 
-- [**Employee Monthly Salary Prediction**](#)
+- [**Employee Monthly Salary Prediction**](https://github.com/Aadhil21/ML-Coursework)
   - Developed models using Naive Bayes and Random Forest for salary prediction.
   - Conducted data preprocessing and exploratory data analysis to optimize data quality.
 
